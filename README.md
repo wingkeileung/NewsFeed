@@ -1,6 +1,18 @@
 # newsapi
 
-> Using Vue JS to fetch News off newsapi.org
+> Using Vue JS to fetch News off newsapi.org. Combine simple styling with bootstrap v4.0 and Font Awesome
+
+# Screenshots
+
+![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss1.png "News Source Selector with drop down menu")
+![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss1.png "Displaying the headlines of the news source")
+
+# Dependencies
+
+  - Vue 2.5.2,
+  - Vue-resource 1.3.4,
+  - Vue-router 3.0.1,
+  - Bootstrap 4.0
 
 ## Build Setup
 
