@@ -4,8 +4,8 @@
 
 # Screenshots
 
-![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss1.png "News Source Selector with drop down menu")
-![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss2.png "Displaying the headlines of the news source")
+![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss2.png "News Source Selector with drop down menu")
+![](https://github.com/wingkeileung/NewsFeed/blob/master/screenshots/ss1.png "Displaying the headlines of the news source")
 
 # Dependencies
 
